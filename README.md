@@ -1,2 +1,1 @@
-# shopify-frontend-2022
-Created with CodeSandbox
+For Shopify Frontend Challenge - May 2022.
